@@ -21,6 +21,11 @@
                 "englishText": "english-text-4",
                 "translatedText": "translated-text-4",
                 "translatedAudio": "translated-audio-4-path"
+            },
+            {
+                "englishText": "i need help"
+                "translatedText": "我需要帮助",
+                "translatedAudio": "translated-audio-5-path"
             }
         ]
     },
