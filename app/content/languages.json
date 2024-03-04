@@ -1,0 +1,52 @@
+[
+    {
+        "name": "cantonese",
+        "terms": [
+            {
+                "englishText": "english-text-1",
+                "translatedText": "translated-text-1",
+                "translatedAudio": "translated-audio-1-path"
+            },
+            {
+                "englishText": "english-text-2",
+                "translatedText": "translated-text-2",
+                "translatedAudio": "translated-audio-2-path"
+            },
+            {
+                "englishText": "english-text-3",
+                "translatedText": "translated-text-3",
+                "translatedAudio": "translated-audio-3-path"
+            },
+            {
+                "englishText": "english-text-4",
+                "translatedText": "translated-text-4",
+                "translatedAudio": "translated-audio-4-path"
+            }
+        ]
+    },
+    {
+        "name": "toishan",
+        "terms": [
+            {
+                "englishText": "english-text-1-toishan",
+                "translatedText": "translated-text-1",
+                "translatedAudio": "translated-audio-1-path"
+            },
+            {
+                "englishText": "english-text-2",
+                "translatedText": "translated-text-2",
+                "translatedAudio": "translated-audio-2-path"
+            },
+            {
+                "englishText": "english-text-3",
+                "translatedText": "translated-text-3",
+                "translatedAudio": "translated-audio-3-path"
+            },
+            {
+                "englishText": "english-text-4",
+                "translatedText": "translated-text-4",
+                "translatedAudio": "translated-audio-4-path"
+            }
+        ]
+    }
+]
